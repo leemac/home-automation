@@ -1,6 +1,6 @@
 ## Overview
 
-A few scripts I use for home automation. Works on my Raspberry Pi and automates a few things such as switches and my gardening system.
+A few scripts I use for home automation. Works on my Raspberry Pi and automates a few things such as various switches and my gardening system.
 
 ## Goals
 
