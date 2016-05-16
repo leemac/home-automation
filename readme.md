@@ -1,3 +1,7 @@
+## Overview
+
+A few scripts I use for home automation. Works on my Raspberry Pi and automates a few things such as switches and my gardening system.
+
 ## Goals
 
 - Turn on living room lights just before sunset
