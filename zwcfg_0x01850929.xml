@@ -38,7 +38,7 @@
 			</CommandClass>
 		</CommandClasses>
 	</Node>
-	<Node id="3" name="Plug-In Dimmer" location="" basic="4" generic="17" specific="1" type="Multilevel Power Switch" listening="true" frequentListening="false" beaming="true" routing="true" max_baud_rate="40000" version="3" query_stage="Complete">
+	<Node id="3" name="Plug-In Dimmer" location="" basic="4" generic="17" specific="1" type="Multilevel Power Switch" listening="true" frequentListening="false" beaming="true" routing="true" max_baud_rate="40000" version="3" query_stage="CacheLoad">
 		<Manufacturer id="63" name="GE">
 			<Product type="4450" id="3030" name="45602 Lamp Dimmer Module" />
 		</Manufacturer>
